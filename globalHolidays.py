@@ -9,13 +9,11 @@ import requests
 st.markdown('''
 # Global Holidays App
 
-- Source Code: https://github.com/steven-ngo/Stock-Price-App
+- Source Code: https://github.com/steven-ngo/Global-Holidays
 - Language: `Python`
 - Libraries: `streamlit` `pandas`
 ''')
 st.write('---')
-
-
 
 
 
