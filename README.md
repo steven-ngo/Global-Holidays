@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://stevengo-stock.streamlit.app/
+https://stevengo-global-holidays.streamlit.app/
 
 ## Dependencies
 streamlit==1.32.0
