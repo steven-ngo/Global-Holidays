@@ -9,6 +9,7 @@ import requests
 st.markdown('''
 # Global Holidays App
 
+- Author: `Steven Ngo`
 - Source Code: https://github.com/steven-ngo/Global-Holidays
 - Language: `Python`
 - Libraries: `streamlit` `pandas`
